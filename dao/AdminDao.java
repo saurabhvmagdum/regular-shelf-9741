@@ -1,12 +1,8 @@
 package com.masai.dao;
 
-import com.masai.expections.adminException;
-import com.masai.build.*;
+import com.masai.exceptions.adminException;
 
 public interface AdminDao {
-	public String registerAdmin(Admin admin)throws adminException;
+	public boolean LoginAdmin(String username , String password) throws adminException;
 	
-	public Admin signInAdmin(String username, String password)throws adminException;
-
-
 }
