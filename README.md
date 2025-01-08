@@ -2,7 +2,7 @@
 
 ## Project Code : regular-shelf-9741
 
-## This is masai level 5 backend project with build with techstack like Core Java, MySQL and JDBC . 
+## This is backend project with build with techstack like Core Java, MySQL and JDBC . 
 
 ### Domain Description:
 
